@@ -1,3 +1,9 @@
+body{
+  height: 70%;
+  width: 60%;
+  background-color: aqua;
+  margin: auto;
+}
 .App {
   text-align: center;
 }
